@@ -1,0 +1,27 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #2f4f30;
+}
+.contenedor{
+  color: white;
+  background-color: #2f4f30;
+  height: 150vh;
+}
+.title{
+  padding: 20px;
+  margin-bottom: 0;
+  font-size: 25px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.marg-inf-30px{
+  margin-bottom: 30px;
+}
+.carta{
+  width: 150px;
+  position: relative;
+  left: 100px;
+  margin-left: -75px;
+}
